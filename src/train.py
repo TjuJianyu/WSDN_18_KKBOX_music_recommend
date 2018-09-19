@@ -1,9 +1,9 @@
-
+out
 #coding:utf-8
 # train.py
 from scipy import stats
 
-from train import  *
+from prepro_and_train import  *
 import numpy as np
 import pandas as pd
 from sklearn.feature_extraction import FeatureHasher
