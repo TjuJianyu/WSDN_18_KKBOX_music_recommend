@@ -19,6 +19,9 @@ That is the code for SVD represenation of user and artist by sparsesvd at [here]
 ### prepro\_and\_train.py
 That is the code of other basic preprocessing, feature engineering and classification model.
 
+### cfscore.py
+That is the code of calculating Collaborative Filtering score for user and song.
+
 ### train.py
 Training and dumping the model and results in ../out/
 
